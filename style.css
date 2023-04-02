@@ -1,0 +1,16 @@
+img{
+	width:300px;
+	border:3px solid yellow;
+	
+}
+body{
+	background-image:url('img_mex.JPG');
+}
+.yellow{
+	color:yellow;
+	font-size:26px;
+}
+#specialstyle{
+	border:2px solid blue;
+	background-color:yellow;
+}	
